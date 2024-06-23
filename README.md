@@ -1,3 +1,4 @@
 # srd-demo
-my first git repo
-author - Soumya Ranjan Dash
+My first git repo.
+<br>
+  Author - Soumya Ranjan Dash.
